@@ -7,9 +7,8 @@ Welcome Githubers! This is a place where you can find python scripts. You can co
 
 - Fork this Repository
 - Clone your forked repository
-- Create a new branch for your modifications (i.e. git branch new-user and check it out git checkout new-user)
 - Add your scripts
-- Add your files (git add .), commit (git commit -m "added python script") and push (git push origin new-user)
+- Commit & Push
 - Create a pull request
 - Star this repository
 - Wait for Pull Request to merge
